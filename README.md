@@ -270,7 +270,7 @@ cpack_msix_add_application_alias(MyCMakeTarget "My Awesome App" "This is my own 
 ### Applications
 
 > [!IMPORTANT]
-> You must add *at least* add one application implementation to your package in order for the generator not to fail!
+> You must add *at least* one application implementation to your package in order for the generator not to fail!
 
 #### `cpack_msix_add_application_alias`
 
